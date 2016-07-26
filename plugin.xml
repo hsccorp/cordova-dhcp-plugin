@@ -2,7 +2,7 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
     id="cordova-dhcp-plugin"
-    version="0.1.0">
+    version="1.0.0">
     <name>DHCPInfo</name>
     <description>Cordova DHCP Plugin</description>
     <license>MIT</license>
