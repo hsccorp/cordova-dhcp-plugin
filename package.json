@@ -1,6 +1,6 @@
 {
   "name": "cordova-dhcp-plugin",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Cordova DHCP Plugin",
   "cordova": {
     "id": "cordova-dhcp-plugin",
