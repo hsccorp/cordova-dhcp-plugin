@@ -1,0 +1,27 @@
+{
+  "name": "cordova-dhcp-plugin",
+  "version": "0.1.0",
+  "description": "Cordova DHCP Plugin",
+  "cordova": {
+    "id": "cordova-dhcp-plugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsccorp/cordova-dnsjava-nslookup"
+  },
+  "bugs": {
+    "url": "https://github.com/hsccorp/cordova-dnsjava-nslookup/issues"
+  },
+  "keywords": [
+    "cordova",
+    "dhcp",
+	"dhcpinfo",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "HSC",
+  "license": "MIT"
+}
