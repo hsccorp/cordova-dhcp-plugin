@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hsccorp/cordova-dnsjava-nslookup"
+    "url": "git+https://github.com/hsccorp/cordova-dhcp-plugin"
   },
   "bugs": {
-    "url": "https://github.com/hsccorp/cordova-dnsjava-nslookup/issues"
+    "url": "https://github.com/hsccorp/cordova-dhcp-plugin/issues"
   },
   "keywords": [
     "cordova",
