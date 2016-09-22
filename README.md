@@ -1,6 +1,7 @@
 # cordova-dhcp-plugin
 
-Based on android.net.DhcpInfo, Plugin retrives DHCP information. It retrieves IPV6 information if applicable.
+ Plugin retrives DHCP information for iOS and Android. It retrieves IPV6 information if applicable.
+
 
 
 
